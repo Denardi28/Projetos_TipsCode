@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+/* ~ =================== PARTE DE CIMA ============= */
+
+body{
+    margin: 0px;
+    text-align: center;
+    line-height: 2;
+}
+
+h1{
+    margin: 0 auto 70px auto;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 562.5%;
+    color: #15173D;
+    line-height: normal;
+    font-weight: normal;
+}
+
+p{
+    font-family: 'Sour Gummy', sans-serif;
+
+    color: gray;
+}
+
+
+h2{
+    font-size: 2.5rem;
+    font-family: 'Ubuntu Sans Mono';
+    color: #15173D;
+}
+
+h3{
+    font-size: 1.6rem;
+    font-family: 'Ubuntu Sans Mono';
+    color: #38332b;
+    padding-top: 5%;
+}
+
+a{
+    font-size: 1.2rem;
+    color: gray;
+    font-family: 'Playfair Display', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #15173D;
+}
+
+hr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: dotted #111111 5px;
+    width: 10%;
+    border-bottom: none;
+}
+
+/* !  =================== CLASSES ============= */
+
+header{
+    background-color: #FFCE99;
+    position: relative;
+    padding-top: 100px;
+}
+
+.cerebro{
+    top: 10%;
+    right: 20%;
+    position: absolute;
+}
+
+.cerebro2{
+    margin-top: 15%;
+    right: 70%;
+    position: absolute;
+}
+
+.skill-row{
+    
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 10%;
+}
+
+.chilli-img{
+    float: right;
+    width: 25%;
+    margin-left: 10%;
+}
+
+.pt1{
+    margin-bottom: 15%;
+}
+
+.middle-container{
+    margin: 100px auto 100px auto;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.bottom-container{
+    background-color: #FFCE99;
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.copyright{
+    color: black;
+    font-size: 0.75rem;
+    margin: 20px 0 20px 0;
+}
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
