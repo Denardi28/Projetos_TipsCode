@@ -1,4 +1,5 @@
 # 💻Material desenvolvido por mim nas aulas do curso da TipsCode
+<img scr="https://tipscode.tech/wp-content/uploads/2023/02/TipsCode-icon-logo.png" />
 
 
  <h3> Linguagens desenvolvidas nesse repositório </h3> 
